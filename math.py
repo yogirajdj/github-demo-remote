@@ -1,6 +1,6 @@
 # Add implementation    # added fun headers
 def add(x,y):
-    return x,y
+    pass
     
 # Substract implementation
 def substract(x,y):
